@@ -156,12 +156,12 @@ Alex Vlasov, Artem Vorobev
 
 ### Example of proposed bond tokenization flow chart
 
-<img src="">
+<img src="https://matterinc.github.io/whitepaper/assets/bond.svg">
 
 <br><br><br><br><br><br><br>
 ### *Matter Inc.* Plasma implementation structure
 
-<img src="">
+<img src="https://matterinc.github.io/whitepaper/assets/plasma.svg">
 
 <!---
 ```
